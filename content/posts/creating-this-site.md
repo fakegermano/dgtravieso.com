@@ -1,11 +1,14 @@
 ---
 title: "Creating This Site"
 date: 2021-08-11T21:24:46-03:00
-draft: true
 toc: false
 images:
+- "img/matrix.jpg"
 tags: 
-  - untagged
+  - hugo
+  - web
+  - html
+  - css
 ---
 
 Hello folks. This will be the first post on this website, and as it is, it will follow my process of building this site with [hugo](https://gohugo.io). Hugo is a pretty cool tool to allow you to build and manage static sites in a _dynamic_ way. To start, I installed the hugo binary in may system following the official documentation.
@@ -34,3 +37,7 @@ $ hugo new posts/creating-this-site.md
 Then I copied the files from the `themes/hermit/assets/scss` directory to the directory `assets/scss` so I can customize the theme. I based this theme's colors from the [zenburn](https://kippura.org/zenburnpage/) theme, which ~~funny story~~ I found out **today** that uses the same theme I am using right now, but doesn't customize its colors.
 
 I then had to customize the `index.html` layout to include copyright attribution information to the home page.
+
+All the images I use in this site are [CC0/Public Domain](https://creativecommons.org/publicdomain/zero/1.0) and were found at [pexels](https://www.pexels.com), a great resource for low budget projects!
+
+The rest, as they say, is history!
