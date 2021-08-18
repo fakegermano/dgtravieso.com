@@ -1,10 +1,17 @@
+/* SCSS HEX */
+$dark-jungle-green: #161d15ff;
+$peach-crayola: #eac09aff;
+$lavender-web: #eee7f9ff;
+$amaranth: #e53855ff;
+$deep-taupe: #715b62ff;
+
 // Colors
 //
-$theme: #F0DFAF;
-$text: #dcdccc;
-$light-grey: #3f3f3f;
-$dark-grey: #262626;
-$highlight-grey: #8faf9f;
+$theme: $peach-crayola;
+$text: $lavender-web;
+$light-grey: $dark-jungle-green;
+$dark-grey: $deep-taupe;
+$highlight-grey: lighten($dark-jungle-green, 30%);
 $midnightblue: #2C302D;
 
 // Fonts

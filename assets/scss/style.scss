@@ -96,9 +96,17 @@ a {
   transition-timing-function: ease-out;
 
   &:hover {
-    color: #DCA3A3;
-    text-shadow: 0 0 1px #DCA3A3;
+    color: $amaranth;
+    text-shadow: 0 0 1px $amaranth;
     font-weight: bold;
+  }
+}
+
+header a {
+  color: $text;
+  &:hover {
+    color: $peach-crayola;
+    text-shadow: 0 0 1px $peach-crayola;
   }
 }
 
