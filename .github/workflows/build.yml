@@ -15,8 +15,8 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Update theme
-      uses: git submodule update --init --recursive
-      
+      run: git submodule update --init --recursive
+
     - name: Install hugo
       uses: peaceiris/actions-hugo@v2
       with:
