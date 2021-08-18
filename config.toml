@@ -70,6 +70,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "github"
     url = "https://github.com/fakegermano"
 
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/danielgtravieso"
+
 [menu]
 
   [[menu.main]]
