@@ -12,7 +12,7 @@ This below is what my face looks like!
 
 ![Daniel's Face](/img/profile.jpg)
 
-I speak and write fluent english, and advanced *español*. In terms of specific skills / programming languages, this bellow is a list of frameworks, languages or topics that I have worked with, interest or knowledge about, the ones with `(*)` I have a professional background and worked with in multiple industry-standard projects.
+I speak and read/write ~~somewhat~~ fluent english, and advanced *español*. In terms of specific skills / programming languages, this bellow is a list of frameworks, languages or topics that I have worked with, interest in or knowledge about, the ones with `(*)` I have a professional background and worked with in multiple industry-standard projects.
 
 * [Python](https://python.org) (*)
   * [Django](https://djangoproject.com) (*)
